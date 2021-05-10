@@ -1,0 +1,7 @@
+C:\Users\iohan\source\repos\Trianguleiro.ConsoleApp\Trianguleiro\bin\Debug\Trianguleiro.exe.config
+C:\Users\iohan\source\repos\Trianguleiro.ConsoleApp\Trianguleiro\bin\Debug\Trianguleiro.exe
+C:\Users\iohan\source\repos\Trianguleiro.ConsoleApp\Trianguleiro\bin\Debug\Trianguleiro.pdb
+C:\Users\iohan\source\repos\Trianguleiro.ConsoleApp\Trianguleiro\obj\Debug\Trianguleiro.csprojAssemblyReference.cache
+C:\Users\iohan\source\repos\Trianguleiro.ConsoleApp\Trianguleiro\obj\Debug\Trianguleiro.csproj.CoreCompileInputs.cache
+C:\Users\iohan\source\repos\Trianguleiro.ConsoleApp\Trianguleiro\obj\Debug\Trianguleiro.exe
+C:\Users\iohan\source\repos\Trianguleiro.ConsoleApp\Trianguleiro\obj\Debug\Trianguleiro.pdb
